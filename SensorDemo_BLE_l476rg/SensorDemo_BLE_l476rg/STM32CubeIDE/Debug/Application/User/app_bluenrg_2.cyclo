@@ -1,0 +1,17 @@
+C:/Users/taouf/OneDrive/Documents/LE/SensorDemo_BLE_l476rg/SensorDemo_BLE_l476rg/Src/app_bluenrg_2.c:110:7:linear_interpolation	1
+C:/Users/taouf/OneDrive/Documents/LE/SensorDemo_BLE_l476rg/SensorDemo_BLE_l476rg/Src/app_bluenrg_2.c:136:6:MX_BlueNRG_2_Init	5
+C:/Users/taouf/OneDrive/Documents/LE/SensorDemo_BLE_l476rg/SensorDemo_BLE_l476rg/Src/app_bluenrg_2.c:221:6:MX_BlueNRG_2_Process	1
+C:/Users/taouf/OneDrive/Documents/LE/SensorDemo_BLE_l476rg/SensorDemo_BLE_l476rg/Src/app_bluenrg_2.c:241:13:User_Init	1
+C:/Users/taouf/OneDrive/Documents/LE/SensorDemo_BLE_l476rg/SensorDemo_BLE_l476rg/Src/app_bluenrg_2.c:255:9:Sensor_DeviceInit	10
+C:/Users/taouf/OneDrive/Documents/LE/SensorDemo_BLE_l476rg/SensorDemo_BLE_l476rg/Src/app_bluenrg_2.c:392:13:User_Process	4
+C:/Users/taouf/OneDrive/Documents/LE/SensorDemo_BLE_l476rg/SensorDemo_BLE_l476rg/Src/app_bluenrg_2.c:460:13:Set_Random_Environmental_Values	1
+C:/Users/taouf/OneDrive/Documents/LE/SensorDemo_BLE_l476rg/SensorDemo_BLE_l476rg/Src/app_bluenrg_2.c:466:6:read_temperature_and_pression	6
+C:/Users/taouf/OneDrive/Documents/LE/SensorDemo_BLE_l476rg/SensorDemo_BLE_l476rg/Src/app_bluenrg_2.c:518:13:Set_Random_Motion_Values	2
+C:/Users/taouf/OneDrive/Documents/LE/SensorDemo_BLE_l476rg/SensorDemo_BLE_l476rg/Src/app_bluenrg_2.c:559:13:Reset_Motion_Values	10
+C:/Users/taouf/OneDrive/Documents/LE/SensorDemo_BLE_l476rg/SensorDemo_BLE_l476rg/Src/app_bluenrg_2.c:582:9:getBlueNRGVersion	2
+C:/Users/taouf/OneDrive/Documents/LE/SensorDemo_BLE_l476rg/SensorDemo_BLE_l476rg/Src/app_bluenrg_2.c:606:6:BSP_PB_Callback	1
+C:/Users/taouf/OneDrive/Documents/LE/SensorDemo_BLE_l476rg/SensorDemo_BLE_l476rg/Src/app_bluenrg_2.c:613:16:platform_write	1
+C:/Users/taouf/OneDrive/Documents/LE/SensorDemo_BLE_l476rg/SensorDemo_BLE_l476rg/Src/app_bluenrg_2.c:623:16:platform_read	1
+C:/Users/taouf/OneDrive/Documents/LE/SensorDemo_BLE_l476rg/SensorDemo_BLE_l476rg/Src/app_bluenrg_2.c:640:6:hci_le_connection_complete_event	1
+C:/Users/taouf/OneDrive/Documents/LE/SensorDemo_BLE_l476rg/SensorDemo_BLE_l476rg/Src/app_bluenrg_2.c:662:6:hci_disconnection_complete_event	1
+C:/Users/taouf/OneDrive/Documents/LE/SensorDemo_BLE_l476rg/SensorDemo_BLE_l476rg/Src/app_bluenrg_2.c:681:6:aci_gatt_read_permit_req_event	1
